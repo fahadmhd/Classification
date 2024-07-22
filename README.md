@@ -8,3 +8,5 @@ We use classification algorithm to build a model from the historical data of pat
 ### K-Nearest Neighbors
 K-Nearest Neighbors is a supervised learning algorithm, where the data is 'trained' with data points corresponding to their classification. To predict the class of a given data point, it takes into account the classes of the 'K' nearest data points and chooses the class in which the majority of the 'K' nearest data points belong to as the predicted class.
 In this second notebook, we load a customer dataset, fit the data, and use K-Nearest Neighbors to predict a data point.
+The image below can illustrate this example
+![see image](https://github.com/fahadmhd/Classification-model-using-Decision-Tree-and-K-Nearest-Neighbors/blob/main/knn.png?raw=true)
