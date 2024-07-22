@@ -2,7 +2,6 @@
 
 ### Classification model using Decision Tree
 We use classification algorithm to build a model from the historical data of patients, and their response to different medications. Then we will use the trained decision tree to predict the class of an unknown patient, or to find a proper drug for a new patient. The image below can illustrate this example.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![see image](https://github.com/fahadmhd/Classification-model-using-Decision-Tree-and-K-Nearest-Neighbors/blob/main/tree.png?raw=true)
 
 
